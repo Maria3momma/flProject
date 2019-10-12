@@ -1,0 +1,104 @@
+Electric Guitars
+Fender Stratocaster
+Gibson Les Paul
+Gibson Flying V
+
+Fender Stratocaster
+Model # EG6400
+UPC# 113243
+startCount 8488
+Comes with:Amplifier,Strings,Tuning knobs,Fret board,
+Bridge,and How to get started book
+Fender Stratocaster Style:
+Basic solid bodycolor
+Basic multi-colorbody colors
+Optional stained to show the wood grain body style
+Optional solid body colors for an additional fee
+Optional type of strings for an additional fee
+
+Gibson Les Paul
+Model # EG7400
+UPC# 113532
+startCount 7446
+Amplifier
+Strings
+Tuning knobs
+Fret board
+Bridge
+How to get started book
+Fender Stratocaster Style:
+Basic solid body color
+Basic multi-color body colors
+Optional stained to show the wood grain body style
+Optional solid body colors for an additional fee
+Optional type of strings for an additional fee
+
+
+Gibson Flying V
+Model # EG8600
+UPC# 113643
+startCount 3398
+Amplifier
+Strings
+Tuning knobs
+Fret board
+Bridge
+How to get started book
+Fender Stratocaster Style:
+Basic solid body color
+Basic multi-color body colors
+Optional stained to show the wood grain body style
+Optional solid body colors for an additional fee
+Optional type of strings for an additional fee
+
+
+Acoustic Guitars
+
+Strings
+Tuning knobs
+Fret board
+Bridge
+How to get started book
+Fender Stratocaster Style:
+Basic solid body color
+Basic multi-color body colors
+Optional stained to show the wood grain body style
+Optional solid body colors for an additional fee
+Optional type of strings for an additional fee
+
+
+
+Parlor
+Model # EG6400
+UPC# 113243
+startCount 8488
+Strings
+Tuning knobs
+Fret board
+Bridge
+How to get started book
+Fender Stratocaster Style:
+Basic solid body color
+Basic multi-color body colors
+Optional stained to show the wood grain body style
+Optional solid body colors for an additional fee
+Optional type of strings for an additional fee
+
+
+
+Auditorium
+Model # EG6400
+UPC# 113243
+startCount 8488
+Strings
+Tuning knobs
+Fret board
+Bridge
+How to get started book
+Fender Stratocaster Style:
+Basic solid body color
+Basic multi-color body colors
+Optional stained to show the wood grain body style
+Optional solid body colors for an additional fee
+Optional type of strings for an additional fee
+
